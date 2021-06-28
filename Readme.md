@@ -10,7 +10,7 @@ $ docker pull nvcr.io/nvidia/pytorch:20.09-py3
 
 Running base image:
 ```shell script
-$ docker run --rm -it nvcr.io/nvidia/tensorflow:20.01-tf2-py3 bash
+$ docker run --rm -it nvcr.io/nvidia/pytorch:20.09-py3 bash
 ```
 
 Installing dependencies:
