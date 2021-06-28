@@ -1,0 +1,13 @@
+opencv-python==4.4.0.42
+matplotlib==3.3.1
+scikit-image==0.17.2
+tensorboardX
+blessings
+progressbar2
+path
+PyYAML
+open3d
+Pillow
+imageio
+PyOpenGL
+PyOpenGL_accelerate
